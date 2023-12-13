@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "fireshell.h"
 
 int shellie_env(char **args, char __attribute__((__unused__)) **front);
 int shellie_setenv(char **args, char __attribute__((__unused__)) **front);

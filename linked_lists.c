@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "fireshell.h"
 
 aliases_t *add_alias_end(aliases_t **head, char *name, char *value);
 void free_alias_list(aliases_t *head);

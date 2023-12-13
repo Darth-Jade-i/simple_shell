@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "fireshell.h"
 
 void handleline(char **line, ssize_t read);
 ssize_t get_new_len(char *line);

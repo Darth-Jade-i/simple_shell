@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "fireshell.h"
 
 int shellie_alias(char **args, char __attribute__((__unused__)) **front);
 void set_alias(char *var_name, char *value);

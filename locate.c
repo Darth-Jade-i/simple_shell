@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "fireshell.h"
 
 char *fill_path_dir(char *path);
 lists_t *get_path_dir(char *path);

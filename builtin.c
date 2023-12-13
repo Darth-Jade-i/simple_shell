@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "fireshell.h"
 
 int (*get_builtin(char *command))(char **args, char **front);
 int shellie_exit(char **args, char **front);

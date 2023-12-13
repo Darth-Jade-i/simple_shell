@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "fireshell.h"
 
 void help_all(void);
 void help_alias(void);

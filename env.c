@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "fireshell.h"
 
 char **_copy_env(void);
 void free_env(void);

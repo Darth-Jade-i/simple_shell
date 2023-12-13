@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "fireshell.h"
 
 int lentoken(char *str, char *delim);
 int tokencounter(char *str, char *delim);
